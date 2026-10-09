@@ -1,0 +1,1 @@
+Computer science and physics student at Stanford. My engineering interests include causal evaluation of models, remote sensing, and hardware validation for pretraining. More generally, I'm interested in what learning and school will look like in a few years!
